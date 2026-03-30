@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IT | </title>
+    <link>https://aibozorova.github.io/ru/tags/it/</link>
+      <atom:link href="https://aibozorova.github.io/ru/tags/it/index.xml" rel="self" type="application/rss+xml" />
+    <description>IT</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aibozorova.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>IT</title>
+      <link>https://aibozorova.github.io/ru/tags/it/</link>
+    </image>
+    
+    <item>
+      <title>Легковесные языки разметки</title>
+      <link>https://aibozorova.github.io/ru/publications/02/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://aibozorova.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-легковесные-языки-разметки&#34;&gt;📝 Легковесные языки разметки&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомилась с легковесными языками разметки — удобными инструментами для форматирования текста без сложного синтаксиса.&lt;/p&gt;
+&lt;p&gt;Легковесные языки разметки используются для структурирования текста таким образом, чтобы он оставался читаемым даже в исходном виде. В отличие от HTML или XML, они не перегружены тегами и проще в использовании.&lt;/p&gt;
+&lt;h3 id=&#34;-основные-особенности&#34;&gt;🔍 Основные особенности&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;✍️ Простой и понятный синтаксис&lt;/li&gt;
+&lt;li&gt;📄 Читаемость без необходимости рендеринга&lt;/li&gt;
+&lt;li&gt;⚡ Быстрое создание документов&lt;/li&gt;
+&lt;li&gt;🔄 Легкая конвертация в HTML, PDF и другие форматы&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-примеры-популярных-языков&#34;&gt;💡 Примеры популярных языков&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — один из самых распространенных языков, используется в документации, README-файлах и блогах&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;reStructuredText (reST)&lt;/strong&gt; — часто применяется в Python-проектах и технической документации&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AsciiDoc&lt;/strong&gt; — более мощный инструмент с расширенными возможностями форматирования&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-где-применяются&#34;&gt;📚 Где применяются&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 Документация программных проектов&lt;/li&gt;
+&lt;li&gt;📖 Технические статьи и блоги&lt;/li&gt;
+&lt;li&gt;🗂 README-файлы в репозиториях&lt;/li&gt;
+&lt;li&gt;📝 Заметки и системы управления знаниями&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Изучение легковесных языков разметки показало, насколько важно уметь структурировать информацию просто и эффективно. Они экономят время и делают процесс работы с текстом более удобным.&lt;/p&gt;
+&lt;p&gt;В дальнейшем планирую использовать Markdown для оформления учебных и рабочих материалов. 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
