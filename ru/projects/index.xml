@@ -13,27 +13,49 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://aibozorova.github.io/ru/projects/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://aibozorova.github.io/ru/projects/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://aibozorova.github.io/ru/projects/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://aibozorova.github.io/ru/projects/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://aibozorova.github.io/ru/projects/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://aibozorova.github.io/ru/projects/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://aibozorova.github.io/ru/projects/hugo/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://aibozorova.github.io/ru/projects/hugo/</guid>
+      <description>&lt;h2 id=&#34;-сайт-научного-работника-на-hugo-academic&#34;&gt;🌐 Сайт научного работника на Hugo Academic&lt;/h2&gt;
+&lt;p&gt;В современном академическом мире наличие персонального сайта становится важной частью профессионального имиджа. Он позволяет представить исследования, публикации и достижения в удобной и структурированной форме. Одним из популярных решений для создания такого сайта является &lt;strong&gt;Hugo Academic&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;-что-такое-hugo-academic&#34;&gt;🧩 Что такое Hugo Academic&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Hugo Academic&lt;/strong&gt; — это готовая тема для генератора статических сайтов Hugo, ориентированная на научных сотрудников, преподавателей и студентов. Она предоставляет все необходимые инструменты для создания профессионального академического профиля без глубоких знаний веб-разработки.&lt;/p&gt;
+&lt;h3 id=&#34;-основные-возможности&#34;&gt;⚙️ Основные возможности&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 Публикация научных статей, проектов и презентаций&lt;/li&gt;
+&lt;li&gt;👤 Раздел с биографией и академическим резюме&lt;/li&gt;
+&lt;li&gt;📚 Удобное отображение списка публикаций&lt;/li&gt;
+&lt;li&gt;🗂 Поддержка портфолио и исследовательских проектов&lt;/li&gt;
+&lt;li&gt;🔗 Интеграция с GitHub, Google Scholar и другими сервисами&lt;/li&gt;
+&lt;li&gt;🌍 Адаптивный дизайн для разных устройств&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-преимущества-использования&#34;&gt;🚀 Преимущества использования&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ Высокая скорость загрузки благодаря статической генерации&lt;/li&gt;
+&lt;li&gt;🔒 Безопасность (отсутствие серверной логики)&lt;/li&gt;
+&lt;li&gt;🎨 Гибкая настройка внешнего вида&lt;/li&gt;
+&lt;li&gt;🧑‍💻 Простота развертывания (например, через GitHub Pages)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-как-начать&#34;&gt;🛠 Как начать&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Установить генератор сайтов Hugo&lt;/li&gt;
+&lt;li&gt;Скачать тему Academic и создать новый проект&lt;/li&gt;
+&lt;li&gt;Настроить конфигурационные файлы&lt;/li&gt;
+&lt;li&gt;Добавить контент: публикации, проекты, информацию о себе&lt;/li&gt;
+&lt;li&gt;Развернуть сайт в интернете&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;-почему-это-важно&#34;&gt;📈 Почему это важно&lt;/h3&gt;
+&lt;p&gt;Персональный сайт помогает:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;повысить видимость научной деятельности&lt;/li&gt;
+&lt;li&gt;упростить доступ к публикациям&lt;/li&gt;
+&lt;li&gt;наладить профессиональные контакты&lt;/li&gt;
+&lt;li&gt;представить себя как специалиста в своей области&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Создание сайта на Hugo Academic — это эффективный способ объединить все достижения в одном месте и сделать их доступными для широкой аудитории.&lt;/p&gt;
+&lt;p&gt;Современный исследователь — это не только автор научных работ, но и активный участник цифрового пространства. ✨&lt;/p&gt;
+</description>
     </item>
     
   </channel>

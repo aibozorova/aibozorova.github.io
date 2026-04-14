@@ -5,12 +5,49 @@
     <link>https://aibozorova.github.io/ru/tags/programming/</link>
       <atom:link href="https://aibozorova.github.io/ru/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <description>Programming</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 14 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://aibozorova.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Programming</title>
       <link>https://aibozorova.github.io/ru/tags/programming/</link>
     </image>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://aibozorova.github.io/ru/publications/04/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://aibozorova.github.io/ru/publications/04/</guid>
+      <description>&lt;h2 id=&#34;-языки-научного-программирования&#34;&gt;🔬 Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Современная наука тесно связана с обработкой больших объёмов данных, моделированием и вычислениями. Для решения таких задач используются специализированные языки программирования, которые обеспечивают точность, скорость и удобство анализа.&lt;/p&gt;
+&lt;h3 id=&#34;-популярные-языки&#34;&gt;💻 Популярные языки&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🐍 &lt;strong&gt;Python&lt;/strong&gt; — один из самых востребованных языков благодаря своей простоте и мощным библиотекам для анализа данных, машинного обучения и визуализации.&lt;/li&gt;
+&lt;li&gt;📊 &lt;strong&gt;R&lt;/strong&gt; — широко применяется в статистике и аналитике, особенно в академической среде.&lt;/li&gt;
+&lt;li&gt;⚙️ &lt;strong&gt;MATLAB&lt;/strong&gt; — используется для численных вычислений, моделирования и инженерных задач.&lt;/li&gt;
+&lt;li&gt;🔢 &lt;strong&gt;Julia&lt;/strong&gt; — современный язык, сочетающий высокую производительность и удобный синтаксис.&lt;/li&gt;
+&lt;li&gt;🧮 &lt;strong&gt;Fortran&lt;/strong&gt; — один из старейших языков, который до сих пор применяется в высокопроизводительных вычислениях.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-где-применяются&#34;&gt;📈 Где применяются&lt;/h3&gt;
+&lt;p&gt;Языки научного программирования используются в самых разных областях:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📡 физика и инженерия (моделирование процессов)&lt;/li&gt;
+&lt;li&gt;🧬 биоинформатика (анализ геномных данных)&lt;/li&gt;
+&lt;li&gt;🌍 экономика (прогнозирование и анализ рынков)&lt;/li&gt;
+&lt;li&gt;🧠 искусственный интеллект и машинное обучение&lt;/li&gt;
+&lt;li&gt;📊 обработка и визуализация больших данных&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-почему-это-важно&#34;&gt;🚀 Почему это важно&lt;/h3&gt;
+&lt;p&gt;Использование правильного инструмента напрямую влияет на эффективность исследований. Научные языки позволяют:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ускорять вычисления&lt;/li&gt;
+&lt;li&gt;работать с большими массивами данных&lt;/li&gt;
+&lt;li&gt;создавать точные модели реальных процессов&lt;/li&gt;
+&lt;li&gt;визуализировать результаты для лучшего понимания&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Освоение таких языков открывает широкие возможности для профессионального роста и участия в современных научных проектах.&lt;/p&gt;
+&lt;p&gt;Наука становится всё более цифровой — и программирование играет в этом ключевую роль. ✨&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Легковесные языки разметки</title>
